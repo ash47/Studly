@@ -40,13 +40,8 @@ Bower should be used for adding new libraries when possible, always remember to 
 Studly is an app that allows students to keep track of which lectures and tutorials that have attended, as well as allowing them easy access to lecture recordings, directions to classes and more.
 
 ###Features###
- - Nothing, this app hasn't been made yet >_>
-
-###Planned Features###
  - Easy timetable management
  - Keeping track of what you've been to
- - Directions to class
- - Ticking things off with GPS
 
 ###Technologies###
  - [Yeoman](http://yeoman.io/)
